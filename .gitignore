@@ -1,0 +1,11 @@
+# Carpetas y archivos locales
+n8n_data/
+node_modules/
+.env
+*.log
+.DS_Store
+
+# Archivos temporales o del sistema
+*.pid
+*.swp
+*.swo
